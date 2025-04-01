@@ -80,7 +80,7 @@ public class Operadores {
         boolean condicao1=true;
         boolean condicao2=true;
         
-        // verifica se as condições juntas são verdadeiras
+        // verifica se as condições juntas são verdadeiras (AND)
         if (condicao1 && condicao2) {
             System.out.println("as duas condições são verdadeiras");
         }
