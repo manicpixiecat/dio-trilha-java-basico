@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploWhile",
+            "request": "launch",
+            "mainClass": "ExemploWhile",
+            "projectName": "dio-trilha-java-basico_146ba5de"
+        },
+        {
+            "type": "java",
+            "name": "ExemploForArray",
+            "request": "launch",
+            "mainClass": "ExemploForArray",
+            "projectName": "dio-trilha-java-basico_146ba5de"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "dio-trilha-java-basico_146ba5de"
+        },
+        {
+            "type": "java",
             "name": "SistemaMedida",
             "request": "launch",
             "mainClass": "SistemaMedida",
