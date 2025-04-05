@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "dio-trilha-java-basico_146ba5de"
+        },
+        {
+            "type": "java",
             "name": "Operadores",
             "request": "launch",
             "mainClass": "Operadores",
